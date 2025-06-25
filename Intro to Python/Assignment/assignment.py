@@ -116,7 +116,7 @@
 
 
 # # #Q13  Write a Python program to sort a dictionary (ascending /descending) by value.
-# dict = {'a':1,'b':2,'c':3}
+# dict = {'a':1,'b':2,'d':5,'c':3}
 # choice = int(input("ASCENDING OR DESCENDING? :(0/1))="))
 # if choice==0:
 #     print(sorted(dict.items()))
@@ -127,7 +127,7 @@
 
 
 #Q14  Write a Python program to find the highest 3 values in a dictionary.
-# dict = {1:'one',2:'two',3:'three',4:'four'}
+# dict = {1:'one',2:'two',5:'Five',3:'three',4:'four'}
 # sorted_item = sorted(dict.items(),reverse=True)
 # for key,value in sorted_item[:3]:   #slicing
 #     print(f"{key}: {value}")    
