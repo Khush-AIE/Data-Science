@@ -1,0 +1,61 @@
+
+Soft Skills Assignment
+Q1. Thank you email
+
+To	xyz@gmail.com
+Cc	
+Bcc	
+Subject	Thank You!!
+Dear Ram,
+Thank you very much for the watch you sent me on my birthday last week. I am really obliged to receive it. The main thing I liked about the watch is it shows date and day along with time. Additionally, the color of the digits is quite attractive and sporty. The band of the watch is very flexible and relaxing to wear. Moreover it helps me in the gym during my workout to calculate the calories and steps.
+ Overall it was one of the best gifts I have ever received.
+Thanks again!
+
+Best regards 
+Vyas Khush
+1234567890
+
+Q2. Letter of apology.
+	To:  xyz@gmail.com
+	Subject: Apologizing mail
+	Dear Sir/Mam,
+I would like to sincerely apologize for my absence in the meeting. I tried my best to reach there on time but due to a medical emergency occurring at my house I was unable to space out the time for the meeting.
+I hope you will find my reason genuine and understand the situation. I will take all the necessary steps to conclude the discussion as soon as I arrive at the office.
+Once again I’m truly sorry and appreciate your time and consideration.
+
+Best regards,
+Vyas Khush
+Senior accountant
+
+Q3. Reminder email
+	To: xyz@gmail.com
+	Subject: Gentle reminder!
+	Dear Sir,
+Seven days ago I visited your site and explored it along with the staff members who were present over there. I made  a formal confirmation to them about the place and they told me that I will be provided with the templates in 2 days. But I am afraid to tell you that I have not received the documents yet.
+It would be very helpful for me if you look at this and provide me with the required templates so that I can take further steps.
+Best regards,
+Vyas Khush
+1234567890
+
+Q4. Email of Inquiry for Requesting Information
+To: xyz@gmail.com
+Subject: Inquiry for informations
+Dear Sir,
+I am very glad to get in touch with your tours and travels. Last week I visited your office about the enquiry for the package of Ladakh and it was quite a good package. We have planned to visit there next month. Kindly provide me with the Itinerary of the package so that we can get the idea of the places to visit and schedule accordingly.
+I hope you will process the Itinerary as soon as possible.
+
+Best regards
+ Vyas Khush
+
+Q5. Introduction Email to Client
+To : xyz@gmail.com
+Subject : Introductory mail
+Dear Client,
+This email is about introducing myself so that as a team we work smoothly. Firstly, my name is Vyas Khush and I am a senior DL engineer in this company. Working in the same company for about the past 25 years and done many major projects for this company.
+It would be a great opportunity to work with you and I am sure as of your performance you can also lead the company in a good path. If you ever get stuck in any work feel free to contact me in my cabin. Also if you want any more information you can ask through the mail and I will definitely provide you with the details.
+
+Best regards,
+Vyas Khush
+Senior DL Engineer
+4445556666
+
