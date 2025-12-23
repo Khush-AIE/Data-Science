@@ -1,0 +1,52 @@
+Important libraries and Modules used:
+
+    1. Tensorflow
+    2. Keras
+    3. Layers
+    4. Dense
+    5. GlobalAveragePooling2d
+    6. MobileNetV2
+    7. ResNet
+    8. VGG16,VGG19
+    9. PIL
+    10. load_model
+    11. ImageDataGenerator
+    12. Matplotlib
+    13. Numpy
+    14. Callbacks
+    15. Dropout
+
+
+
+Structure:
+
+
+Brain Tumor Detection
+|
+|-------Dataset
+|             |
+|             |
+|             |-Training
+|             |     |
+|                   |--glioma
+|                   |--meningioma
+|                   |--notumor
+|                   |--pituitary
+|             
+|             |-Testing
+|             |    |--glioma
+|                  |--meningioma
+|                  |--notumor
+|                  |--pituitary
+|
+|
+|-------Model
+|            |
+|            |-app.py
+|
+|
+|-------Requirements.txt
+|
+|
+|-------train_cnn.ipynb
+|

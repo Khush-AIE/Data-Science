@@ -1,0 +1,4 @@
+So from the project we have made so far the following things are inferred:-
+    1. Best model to identify the tumor is MobileNetV2 with the accuracy of around 83.
+    2. We have made the project live with help of streamlit on our localhost.
+    3. Identified the tumor based on the image uploaded.
